@@ -1,0 +1,31 @@
+body  {
+    background-image: url("https://img.freepik.com/fotos-premium/parede-de-cimento-velho-fundo-de-concreto-laranja_34936-2753.jpg");
+    background-color: #cccccc;
+  }
+  
+  h1{
+    color: rgb(116, 70, 43) ;
+    margin-left: 660px,0;
+  }
+  
+  img{
+    width:30%;
+    margin-left: 490px;
+  }
+  
+  h2{ 
+    color: rgb(122, 57, 37);
+    margin-left: 10px;
+  }
+  
+  h3{
+    color: brown ;
+    margin-left: 660px;
+    padding: 20px;
+  }
+  
+  li{
+    color: black;
+    font-size: 17px;
+    padding: 7px;
+  }
